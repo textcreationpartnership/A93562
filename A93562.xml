@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queen of Denmark's letter to the King of Scots, now resident in the city of Paris. Dated from Her Majesties royall court at Hamborough, Novemb. 16. 1651. Together with the removall of Major General Massey, and the sending of him prisoner to the Tower.</title>
+            <author>Sophie Amalie, Queen, consort of Frederik III, King of Denmark, 1628-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93562</idno>
+            <idno type="STC">Wing S4689</idno>
+            <idno type="STC">Thomason E649_1</idno>
+            <idno type="STC">ESTC R203732</idno>
+            <idno type="EEBO-CITATION">99863569</idno>
+            <idno type="PROQUEST">99863569</idno>
+            <idno type="VID">115775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115775)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E649[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queen of Denmark's letter to the King of Scots, now resident in the city of Paris. Dated from Her Majesties royall court at Hamborough, Novemb. 16. 1651. Together with the removall of Major General Massey, and the sending of him prisoner to the Tower.</title>
+                  <author>Sophie Amalie, Queen, consort of Frederik III, King of Denmark, 1628-1685.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut portrait.</note>
+                  <note>Annotation on Thomason copy: "December ist".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674?</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115775:1" rendition="simple:additions"/>
+            <p>THE QVEEN OF DENMARK'S LETTER TO THE KING of SCOTS, Now reſident in the City of Paris.</p>
+            <p>
+               <hi>Dated from Her Majeſties Royall Court at</hi> Hamborough, Novemb. 16. 1651.</p>
+            <p>Together with the Removall of Major General <hi>Maſsey,</hi> and the ſending of him priſoner to the Tower.</p>
+            <figure>
+               <head>M R</head>
+               <figDesc>portrait of the author, apparently Sophie Amalie of Brunswick-Lüneburg, queen consort to Frederik III, king of Denmark</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:115775:2"/>
+            <pb n="1" facs="tcp:115775:2"/>
+            <head>The Queen of DENMARKS Letter to the King of Scots, now in the City of PA<g ref="char:EOLhyphen"/>RIS, dated from Hamburgh November 16. 1651.</head>
+            <opener>
+               <salute>Highly Honoured, and dearly loved Kinſman,</salute>
+            </opener>
+            <p>HAving (with much remorſe and moroſity of mind) received clear and unfallible Intelligence of your Majeſties late defeat in <hi>England:</hi> as alſo how miraculous an eſcape you made thence, we thought fit to let you know, that we think our ſelf (in a high nature) obliged to congratulate your Majeſties mag<g ref="char:EOLhyphen"/>nanimity (the eſſence of a Prince) in the managing of that Heroick and unparalleld attempt (an Act which ſhall eter<g ref="char:EOLhyphen"/>nize your name) as alſo to exult and rejoyce with you for your unheard of deliverance after ſo dire a ſtorm, provi<g ref="char:EOLhyphen"/>dence appointing ſo ſafe an Harbour, alotting you an Aſy<g ref="char:EOLhyphen"/>lum or reſidence in ſuch a metropolis, where, as you are honoured of all, ſo are you dearly beloved by our Brother the Monarch of <hi>France,</hi> and all the Princes of the blood, your Majeſty (we doubt not) needs no Phyloſophical Lecture of patience, or aequanimity, ſince you breath that
+<pb n="2" facs="tcp:115775:3"/>
+               <hi>virilem ſapientiam ſtoicorum</hi> (which Seneca doth ſo much ex<g ref="char:EOLhyphen"/>tol) that maſculine and heroick bravery of the Stoicks, whereby they did put of man, and tread above the ſtage of humane chance.</p>
+            <p>It is a High-way ſaying, that we are Architects of our own fortune; but fortune cannot be wrought or fram'd without the tools of vertue, and ſo it becomes a Statute of vertue, which was carv'd for the ſtatute of fortune: yet it is true, that though we be not Authours of of its entity, yet we are of its quality, and the preſent power now Dia<g ref="char:EOLhyphen"/>meter to your Majeſty, may perceive how fickle the blind Goddeſs may be, by your late invading them, when they leaſt doubted ſuch an Inroad; and had you but given them one blowe, thoſe that ſung <hi>Hoſanna</hi> before, would ſoon have tuned their Pipes to a Crucifixion. If every man have his fortune, and every fortune its wheel, how can we com<g ref="char:EOLhyphen"/>plain that our wheel deſcends, ſince one part of the wheel doth not deſcend ſo much one way, but it aſcends another way, thoſe men only complain of fortune, who have their ſoules ſo tack'd to their bodies, that when one falls and precipitates, the other doth ſo too; but thoſe who poſ<g ref="char:EOLhyphen"/>ſeſs one part of the wheel with their ſoules, and another part with their bodies, do wiſh alwayes the adverſe or contrary part of the wheel, and if they have it not, they make it ſo, becauſe the one part mounts towards Heaven, when the other hurries down towards Hell. But your Ma<g ref="char:EOLhyphen"/>jeſty may (perhaps) ſay, you have loſt your Kingdoms; you have not left them, but ſurrendred them, they are the favours of fortune, what other goodneſs have they in them but what he ſtamps that doth enjoy them? Dignity is like a purple Attyre, which doth embelliſh dirt, becauſe it hides the uglineſs of it; but diſgraceth Gold, becauſe it hides
+<pb n="3" facs="tcp:115775:3"/>the ſplendor of it, every thing is bright where the Sun ſhi<g ref="char:EOLhyphen"/>neth; but a Carbuncle if it glitter and ſparkle, muſt be placed in the dark, it muſt be removed out of another light if you would ſee its own vertue, deſire to be naked, diſ<g ref="char:EOLhyphen"/>poiled of Dignities, and ſequeſtred from Wealth: you are come down from the Hill, not thrown down from thence: Men are not therefore nearer Heaven, becauſe they are ad<g ref="char:EOLhyphen"/>vanced above us; he that is ſometimes neareſt unto it, ſees it leaſt; he that ſtands on the top of a Mountain ſees no<g ref="char:EOLhyphen"/>thing elſe but the Sun, whereas he that is in the bottom of a Well, can thence number the Starres: Alſo you may (perhaps) be agrieved that your Kingdoms are taken from you, with as much violence as your Fathers Head was ta<g ref="char:EOLhyphen"/>ken off; but your Majeſty may pleaſe to conſider that na<g ref="char:EOLhyphen"/>ture which hath planted in Man that moſt ardent deſire o Command would have ſhewed her ſelf an envious Mother, if ſhe had not alſo given ſomething to command: There is no Man but hath a Kingdom within himſelf, and he is not worthy to be a King over others, that is not firſt a King o<g ref="char:EOLhyphen"/>ver himſelf; rejoyce that you are a Monarch over your own affections, to ſee your paſſions ſo good Subjects: this Harmony brings you to hear that of the ſphears, and to contemplate that of God himſelf; and in this moſt de<g ref="char:EOLhyphen"/>lightful Symmetry, you ſhall taſte that peace and tranqui<g ref="char:EOLhyphen"/>lity of mind which was by ancient Sages reputed the feli<g ref="char:EOLhyphen"/>city of the bleſſed; if you may not come in place to right the oppreſſed, yet you may procure it to be done, and though you have not to relieve your friends, yet you have whereby to pitty them: is not this body of Clay enough to preſſe down the ſoul, unleſs we clog it alſo with the weight of Kingdoms and Provinces? the greateſt of Dig<g ref="char:EOLhyphen"/>nities is a circumſtance that doth alwayes add weight to
+<pb n="4" facs="tcp:115775:4"/>our faults: it is very true, that the tranſition from a place of eminent Command, unto a private life, is not eaſily concocted, except only by thoſe who do not change their intellect by changing their condi<g ref="char:EOLhyphen"/>tion: the changing of a mans condition is the death of one man, and the Generation of another; all E<g ref="char:EOLhyphen"/>ſtates and conditions of men in the world are equal, the felicities of this world are not in things them<g ref="char:EOLhyphen"/>ſelves, they ſubſiſt in opinion only, and become great or ſmall, according as they are apprehended, and they have the greateſt ſhare of them that be<g ref="char:EOLhyphen"/>lieve they have it. Soveraignty is like a Mountain which ſeems to the Subjects (who are at the feet of it) with his towring head to touch the Skies; but to thoſe that are at the top, it ſeems with its baſis to reach Hell.</p>
+            <p>Divine providence by an inſcrutable de<g ref="char:EOLhyphen"/>cree, by a moſt ſtrange Revolution, hath mutated the Engliſh Nation (your Fa<g ref="char:EOLhyphen"/>thers Subjects in times paſt, and over whom you claim a power) from a Monarchical to a popular Eſtate, your Majeſty hath ex<g ref="char:EOLhyphen"/>perience (I hope) that this change hath
+<pb n="5" facs="tcp:115775:4"/>not hapned by Fate or Fortune, but by Gods immediate decree; nor is this more then hath hapned in all Ages to Bodies po<g ref="char:EOLhyphen"/>litick, of a far vaſter ſize then that of Great Brittain, viz. to the Medes, Perſians, and Romans, &amp;c. thoſe democratical demi-Gods that now ſit at Helm, and ſteere their Argoſie of England, Scotland, and Ireland, think themſelves obliged to accept of that which divine providence (I ſhall not determine why) not only hath offered, but thruſt upon them, pleading the ſame Right which William the Norman firſt laid claim to, and his Poſterity after him; your Ma<g ref="char:EOLhyphen"/>jeſties beſt revenge will be to wait on the will of Heaven, who in his own time will <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (for ought we know) all back again to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> form: the wiſdom of this Age <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the folly of the next; however for <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall ever endeavour all we may,
+<pb n="6" facs="tcp:115775:5"/>though with the hazzard of our life (ſhould the whole Univerſe beſide, conſpire againſt your Majeſty) to make the World ſenſi<g ref="char:EOLhyphen"/>ble that we are</p>
+            <closer>
+               <signed>
+                  <hi>Your Majeſties</hi> cordial and unfeigned Kinſwoman, M. R.</signed>
+               <dateline>Given at Our Court at <hi>Hamborough,</hi> 
+                  <date>
+                     <hi>Novemb.</hi> 16. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>On Thurſday laſt being the 27 of Nov. Major Gen. Maſſey was brought from Warwick Caſtle to London, and guarded by a Troop of Horſe to the Tower: being confined to the ſame Lodgings that Mr. Love was lately in: He is now recovered of his wounds; and I wiſh mercy may in<g ref="char:EOLhyphen"/>tervene, that a more fatal one doth not befal him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
